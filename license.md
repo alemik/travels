@@ -35,3 +35,12 @@ Per qualsiasi domanda relativa a questa licenza, contattare **Alemik** all’ind
 **Alemik**  
 Sviluppatore di Travels - Drops of Memories
 
+
+==============================================================================
+
+Humanizer ([https://github.com/Humanizr/Humanizer](https://github.com/Humanizr/Humanizer))
+The MIT License (MIT)
+Copyright (c) .NET Foundation and Contributors
+
+==============================================================================
+
